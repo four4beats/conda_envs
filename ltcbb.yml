@@ -1,0 +1,10 @@
+name: ltcbb
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.5
+  - pandas
+  - numpy
+  - beautifulsoup4
+  - matplotlib

@@ -1,0 +1,10 @@
+name: rrr
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.5
+  - r-essentials
+  - r-languageserver
+  - r-tidyverse
+  - radian
